@@ -1,0 +1,8 @@
+took me 5 minutes to do it for the first time in my life
+
+0 - create github account
+1 - install gh cli
+2 - run "gh auth login" in Windows Terminal
+3 - follow the instractions and authentificate 
+4 - https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github - follow this instructions
+
